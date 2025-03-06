@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "808922105571",
+    "firebase_url": "https://captain-calling-944c5-default-rtdb.firebaseio.com",
+    "project_id": "captain-calling-944c5",
+    "storage_bucket": "captain-calling-944c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808922105571:android:78a93d928fcb8dfc5b67d6",
+        "android_client_info": {
+          "package_name": "com.mtm.captaincalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808922105571-dpqhgagluv5utqps0ldo6a7rq8kguo2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtm.captaincalling",
+            "certificate_hash": "bf3af3ae70ecd54f99b7b2e2491fec2299c82dac"
+          }
+        },
+        {
+          "client_id": "808922105571-qimoips94hpkh4mgqiepr6f2s9sqo9mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtm.captaincalling",
+            "certificate_hash": "b3c8e43dca0d507ea39d092534e91f270bc2b182"
+          }
+        },
+        {
+          "client_id": "808922105571-chcqiqh7c5mf2o7aj194g27jh918k3mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5g1mwRugVf52nbOioqfI9KXCiLeCEgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808922105571-chcqiqh7c5mf2o7aj194g27jh918k3mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808922105571:android:505891ffa2b51fe25b67d6",
+        "android_client_info": {
+          "package_name": "com.mtmsports.captaincalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808922105571-bdfkq9fbjlqacuvhr61nglhp0n49tg7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtmsports.captaincalling",
+            "certificate_hash": "bf3af3ae70ecd54f99b7b2e2491fec2299c82dac"
+          }
+        },
+        {
+          "client_id": "808922105571-j0qupq6u4gcm3460jm9ftptj6ibd5g9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtmsports.captaincalling",
+            "certificate_hash": "b3c8e43dca0d507ea39d092534e91f270bc2b182"
+          }
+        },
+        {
+          "client_id": "808922105571-chcqiqh7c5mf2o7aj194g27jh918k3mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5g1mwRugVf52nbOioqfI9KXCiLeCEgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808922105571-chcqiqh7c5mf2o7aj194g27jh918k3mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
